@@ -65,6 +65,15 @@ who -T
 mesg  args(n for turn off and y for turn on) tty to check
 - check messaging status for a user
 
+netstat -alt
+- listening tcp ports
+
+netstat -alu
+- listening udp ports
+
+netstat -alx
+- listening sockets
+
 
 
 
