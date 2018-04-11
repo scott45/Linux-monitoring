@@ -59,6 +59,12 @@ w
 who -l 
 - processes tied with logged in ttys
 
+who -T 
+- find out user with messaging turned on. + or -  
+
+mesg  args(n for turn off and y for turn on) tty to check
+- check messaging status for a user
+
 
 
 
