@@ -50,6 +50,14 @@ vmstat 5 2
 uptime
 - system load (cpu) 1min, 5mins, 15mins
 
+who
+- logged in users and consoles 
+
+w
+- header details 
+
+who -l 
+- processes tied with logged in ttys
 
 
 
