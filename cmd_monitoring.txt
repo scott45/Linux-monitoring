@@ -29,3 +29,12 @@ vmstat  (no args)
 - memory used as buffers
 - memory used as cache
 - interrupts per second 
+
+vmstat -S M  
+- see memory usage in mb's 
+
+vmstat -a
+- see active / inactive memory.
+
+lsb_release -a
+- see linux distribution system 
