@@ -5,3 +5,8 @@ monitoring availability with Nagios
 network administartion
 backup operations
 notify users
+
+Scenario:
+    Company is Beracah group
+    Scott is lead linux guru
+    Goal is to improve the monitoring of services, to make maintenance a little more proactive.
