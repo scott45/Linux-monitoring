@@ -10,3 +10,13 @@ Scenario:
     Company is Beracah group
     Scott is lead linux guru
     Goal is to improve the monitoring of services, to make maintenance a little more proactive.
+
+standard monitoring tools.
+vmstat
+uptime
+pstree
+ps
+who
+netstat
+lsof
+top
