@@ -42,4 +42,77 @@ lsb_release -a
 free -m 
 sync
 sudo bash -c "echo 3 > /proc/sys/vm/drop_caches"
-- free memory 
+- free cache memory 
+
+vmstat 5 2
+- run vmstat 2 times with a 5 second delay
+
+uptime
+- system load (cpu) 1min, 5mins, 15mins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
