@@ -20,3 +20,12 @@ who
 netstat
 lsof
 top
+
+vmstat  (no args)
+- used memory 
+- free memory
+- blocked processes
+- waiting processes
+- memory used as buffers
+- memory used as cache
+- interrupts per second 
