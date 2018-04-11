@@ -22,11 +22,11 @@ lsof
 top
 
 vmstat  (no args)
-- used memory 
-- free memory
-- blocked processes
-- waiting processes
-- memory used as buffers
+- used memory - swpd
+- free memory - free
+- blocked processes - r
+- waiting processes - b
+- memory used as buffers - buff 
 - memory used as cache
 - interrupts per second 
 
@@ -38,3 +38,8 @@ vmstat -a
 
 lsb_release -a
 - see linux distribution system 
+
+free -m 
+sync
+sudo bash -c "echo 3 > /proc/sys/vm/drop_caches"
+- free memory 
