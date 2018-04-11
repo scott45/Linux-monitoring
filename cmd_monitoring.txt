@@ -1,0 +1,7 @@
+LPIC-2 Exam
+cmd monitoring tools
+graphing data collection with collectd
+monitoring availability with Nagios
+network administartion
+backup operations
+notify users
