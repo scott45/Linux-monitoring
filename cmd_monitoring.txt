@@ -77,14 +77,12 @@ netstat -alx
 top
 - summary of running tasks, uptime info etc
 
-netstat
+netstat (-i lists interfaces)
 - installed as part of the net-tools package.
 - displays open ports.
 
-
-
-
-
+iptables
+- displays counters relating to firewall rules.
 
 
 
