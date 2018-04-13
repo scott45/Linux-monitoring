@@ -84,6 +84,11 @@ netstat (-i lists interfaces)
 iptables
 - displays counters relating to firewall rules.
 
+sudo iptables -nvL
+- received packages.
+
+watch -d sudo iptables -nvL
+- highlight changing data
 
 
 
