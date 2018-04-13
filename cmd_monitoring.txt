@@ -90,6 +90,15 @@ sudo iptables -nvL
 watch -d sudo iptables -nvL
 - highlight changing data
 
+sysstat
+- collects historical data (data is collected every 10 mins)
+- sa1 (cron)
+collects data every 10 mins 
+- sa2 (cron)
+summarizes daily info
+- sar
+data can be read with sar
+
 
 
 
