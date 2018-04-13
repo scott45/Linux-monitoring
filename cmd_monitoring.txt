@@ -99,6 +99,12 @@ summarizes daily info
 - sar
 data can be read with sar
 
+/var/log/sysstat/sa/<day_number 1-28>
+- path for stored data
+
+/etc/sysstat/sysstat  and /etc/default/sysstat
+- config files 
+
 
 
 
