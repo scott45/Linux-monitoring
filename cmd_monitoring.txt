@@ -74,8 +74,12 @@ netstat -alu
 netstat -alx
 - listening sockets
 
+top
+- summary of running tasks, uptime info etc
 
-
+netstat
+- installed as part of the net-tools package.
+- displays open ports.
 
 
 
