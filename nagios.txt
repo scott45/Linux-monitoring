@@ -2,3 +2,5 @@ linx academy tut link
 https://linuxacademy.com/cp/socialize/index/type/community_post/id/15867
 
 - Monitoring open source tool
+- Nagios is a server monitoring infrastructure
+- Nagios is now used to monitor sites with hundreds of thousands of services and you can configure tiered monitoring if you need maximum scalability
