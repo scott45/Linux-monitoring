@@ -13,6 +13,7 @@ Installation:
 commercail version Nagios XI on RHEL or CentOS company servers is recommended. 
 preconfigured with extra features and abilities and and free professional installation. 
 
-- tested on debian linux 8
+- tested on debian linux 8. (identical on any debian or ubuntu systems)
 - Nginx tends to be faster than Apache, uses fewer resources, and scales better.
 - nagios comes with sample apache config files though. 
+- do not ever update a package from source that was installed by the package manager!
