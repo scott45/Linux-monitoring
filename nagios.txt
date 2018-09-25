@@ -7,3 +7,8 @@ https://linuxacademy.com/cp/socialize/index/type/community_post/id/15867
 - based on scripting, allowing you to monitor literally anything. It's notification system is also based on scripts, so you can do whatever you like with the information, even restart services, clean old logs, or whatever.
 - You will need a firm grasp on basic networking, the Unix permission model, how to set up basic mail and networking on your server, and some basic scripting before you can tackle this beast. 
 - It also bears note that you can set up multiple users that have different access rights, and even hide parts of the system from a user.
+
+
+Installation:
+commercail version Nagios XI on RHEL or CentOS company servers is recommended. 
+preconfigured with extra features and abilities and and free professional installation. 
